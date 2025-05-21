@@ -1,0 +1,1 @@
+For my research project, I had to examine hospital closures happening in New York as well as make interpretions on what was causing these closures. The code in this document was used to generate a map on R, a regression table, and line graph, along with other plots that I used in my research project
